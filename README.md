@@ -6,7 +6,7 @@
 **Презентация:** в формате <code>[**pptx**](https://docs.google.com/presentation/d/1npInNIE7cgZ-FCySqu4ESMsk31x6wr2r/edit?usp=sharing&ouid=107992414877734018797&rtpof=true&sd=true) </code> или <code>[**pdf**](https://drive.google.com/file/d/1lLjUHqjld5VFshWjrRKW1OFehVvoDYuc/view?usp=sharing)</code>
 
 **Команда:**
-  * КОЛЕСНИК Наталья (Data Science) 
+  * КОЛЕСНИК Наталья (Data Science) - Капитан 
   * КОВАЛЕВА Надежда (Data Science)  
   * СМОТРОВА Алена (Data Science)  
   * РУСАНОВА Екатерина (Project manager)
